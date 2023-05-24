@@ -1,0 +1,5 @@
+/CompanyEmployees/.idea/*
+CompanyEmployees/CompanyEmployees/obj/
+CompanyEmployees/Contracts/obj/
+CompanyEmployees/LoggerService/obj/
+.DS_Store
