@@ -4,4 +4,9 @@ CompanyEmployees/Contracts/obj/
 CompanyEmployees/LoggerService/obj/
 CompanyEmployees/Entities/obj/
 CompanyEmployees/Repository/obj/
+CompanyEmployees/CompanyEmployees/bin/
+CompanyEmployees/Contracts/bin/
+CompanyEmployees/LoggerService/bin/
+CompanyEmployees/Entities/bin/
+CompanyEmployees/Repository/bin/
 .DS_Store
