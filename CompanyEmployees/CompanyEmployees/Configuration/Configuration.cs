@@ -7,4 +7,5 @@ public class Configuration
     }
 
     public string Message { get; set; }
+    public string ConnectionString { get; set; }
 };
